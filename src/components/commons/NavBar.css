@@ -1,0 +1,14 @@
+.link {
+    padding: 2em;
+    color: dodgerblue;
+}
+
+.link_active {
+    padding: 2em;
+    color: whitesmoke;
+    background-color: dodgerblue;
+}
+
+.active {
+    color: whitesmoke;
+}
